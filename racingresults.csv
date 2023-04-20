@@ -1,0 +1,396 @@
+﻿Year,Position,Number,Draw,Name,Days-since-last-run,Previous-performances,Course-winner,Distance-winner,Odds(decimal),Form,Num-of-wins-in-last-3-starts,Result-last-start,Placed-Last-Time-Out,Won-Last-Time-Out,Age,Weight(pounds),Rating,Trainer,Jockey,Distances(lenghts),Going,Profitable
+2022,1,14,6,Alpinista,45,D,No,Yes,4.5,111111,3,1,Yes,Yes,5,128,120,Sir Mark Prescott,L Morris,0,Very Soft,1
+2022,2,15,2,Vadeni (FR),22,BF,No,No,10,51113,2,3,Yes,No,3,124,123,J C Rouget,C Soumillon,0.5,Very Soft,1
+2022,3,2,8,Torquator Tasso (GER),28,D,No,Yes,8,16122,1,2,Yes,No,5,131,123,M Weiss/Schweiz,L Dettori,0.25,Very Soft,1
+2022,4,16,4,Al Hakeem,48,,No,No,21,11141,2,1,Yes,Yes,3,124,114,J C Rouget,C Demuro,2,Very Soft,1
+2022,5,13,9,Grand Glory,21,C,Yes,No,67,51137,1,7,No,No,6,128,116,G Bietolini,M Guyon,1.5,Very Soft,1
+2022,6,18,7,Westover,71,BF,No,No,9.5,221315,1,5,No,No,3,124,120,R M Beckett,Rob Hornby,3,Very Soft,1
+2022,7,20,8,Luxembourg (IRE),22,,No,No,5,111311,2,1,Yes,Yes,3,124,122,A P O'Brien,R L Moore,0.15,Very Soft,0
+2022,8,7,14,Broome (IRE),22,D,No,Yes,101,51447,0,7,No,No,6,131,118,A P O'Brien,W M Lordan,1,Very Soft,0
+2022,9,5,12,Alenquer (FR),22,D,No,Yes,41,916166,1,6,No,No,4,131,119,W J Haggas,Tom Marquand,0.35,Very Soft,0
+2022,10,17,11,Onesto (IRE),22,CD,Yes,Yes,10,81512,1,2,Yes,No,3,124,118,F Chappet,S Pasquier,0.5,Very Soft,0
+2022,11,11,10,Titleholder (JPN),98,D,No,Yes,9,15111,3,1,Yes,Yes,4,131,,T Kurita,K Yokoyama,4,Very Soft,0
+2022,12,10,1,Mendocino (GER),28,D,No,Yes,34,24351,1,1,Yes,Yes,4,131,,Frau S Steinberg,R Piechulek,1,Very Soft,0
+2022,13,1,17,Mishriff (IRE),22,D,No,Yes,29,402324,0,4,No,No,5,131,121,J & T Gosden,W Buick,4,Very Soft,0
+2022,14,8,20,Stay Foolish (JPN),35,,No,No,101,51192,1,2,Yes,No,7,131,117,Y Yahagi,C P Lemaire,0.15,Very Soft,0
+2022,15,3,19,Mare Australis (IRE),91,C,Yes,No,67,13417,1,7,No,No,5,131,118,A Fabre,B Murzabayev,3,Very Soft,0
+2022,16,4,15,Sealiway (FR),28,C,Yes,No,41,2354,0,4,No,No,4,131,115,F Graffard,M Barzalona,1,Very Soft,0
+2022,17,12,13,Bubble Gift (FR),21,C,Yes,No,41,84232,0,2,Yes,No,4,131,108,M Delzangles,O Peslier,2,Very Soft,0
+2022,18,6,5,Deep Bond (JPN),98,CD,Yes,Yes,34,2124,1,4,No,No,5,131,117,R Okubo,Y Kawada,12,Very Soft,0
+2022,19,19,3,Do Deuce (JPN),21,BF,No,No,34,12314,1,4,No,No,3,124,,Y Tomomichi,Yutaka Take,6,Very Soft,0
+2022,20,9,16,Mostahdaf (IRE),29,D,No,Yes,41,112261,1,1,Yes,Yes,4,131,117,J & T Gosden,Jim Crowley,0.75,Very Soft,0
+2021,1,1,12,Torquator Tasso (GER),28,D,No,Yes,81,26121,2,1,Yes,Yes,4,131,118,M Weiss/Schweiz,Rene Piechulek,0,Very Soft,1
+2021,2,4,3,Tarnawa (IRE),22,C,Yes,No,6,111112,2,2,Yes,No,5,128,122,D K Weld,C Soumillon,0.75,Very Soft,1
+2021,3,11,2,Hurricane Lane (IRE),22,D,No,Yes,3.5,113111,3,1,Yes,Yes,3,124,121,C Appleby,James Doyle,0.35,Very Soft,1
+2021,4,10,11,Adayar (IRE),71,D,No,Yes,4,412211,2,1,Yes,Yes,3,124,127,C Appleby,W Buick,3,Very Soft,1
+2021,5,12,10,Sealiway (FR),119,C,Yes,No,34,15282,0,2,Yes,No,3,124,114,C E Rossi,F Blondel,0.75,Very Soft,1
+2021,6,15,9,Snowfall (JPN),21,D,No,Yes,6,811112,2,2,Yes,No,3,121,120,A P O'Brien,R L Moore,0.15,Very Soft,0
+2021,7,7,14,Chrono Genesis (JPN),98,D,No,Yes,8.5,13121,2,1,Yes,Yes,5,128,120,T Saito,Oisin Murphy,0.5,Very Soft,0
+2021,8,14,6,Bubble Gift (FR),21,C,Yes,No,101,211261,1,1,Yes,Yes,3,124,108,M Delzangles,G Mosse,0.35,Very Soft,0
+2021,9,13,8,Alenquer (FR),46,D,No,Yes,17,121132,1,2,Yes,No,3,124,115,W J Haggas,Tom Marquand,1.25,Very Soft,0
+2021,10,8,1,Mojo Star (IRE),22,D,No,Yes,34,222512,1,2,Yes,No,3,124,116,R Hannon,Rossa Ryan,0.15,Very Soft,0
+2021,11,3,7,Broome (IRE),21,D,No,Yes,41,122142,1,2,Yes,No,5,131,117,A P O'Brien,Yutaka Take,3,Very Soft,0
+2021,12,6,15,Raabihah (USA),42,C,Yes,No,34,52221,1,1,Yes,Yes,4,128,110,J C Rouget,C Demuro,2.5,Very Soft,0
+2021,13,9,13,Baby Rider (FR),21,,No,No,251,11052,0,2,Yes,No,3,124,108,P Bary,I Mendizabal,1,Very Soft,0
+2021,14,2,5,Deep Bond (JPN),21,CD,Yes,Yes,26,40121,2,1,Yes,Yes,4,131,117,R Okubo,M Barzalona,30,Very Soft,0
+2020,1,7,4,Sottsass (FR),22,CD,Yes,Yes,7.5,134124,1,4,No,No,4,131,119,J C Rouget,C Demuro,0,Heavy,1
+2020,2,12,1,In Swoop (IRE),21,D,No,Yes,9.5,1312,1,2,Yes,No,3,124,114,F Graffard,R Thomas,0.25,Heavy,1
+2020,3,1,7,Persian King (IRE),28,C,Yes,No,8.5,221141,2,1,Yes,Yes,4,131,123,A Fabre,P C Boudot,1.75,Heavy,1
+2020,4,10,9,Gold Trip (FR),21,,No,No,34,252103,1,3,Yes,No,3,124,114,F Chappet,S Pasquier,0.15,Heavy,1
+2020,5,15,2,Raabihah (USA),21,C,Yes,No,11,11412,1,2,Yes,No,3,121,113,J C Rouget,M Guyon,2,Heavy,1
+2020,6,8,5,Enable,29,D,No,Yes,2.2,112211,2,1,Yes,Yes,6,128,128,J & T Gosden,L Dettori,2,Heavy,0
+2020,7,6,14,Stradivarius (IRE),21,,No,No,5.5,123112,2,2,Yes,No,6,131,123,J & T Gosden,O Peslier,0.5,Heavy,0
+2020,8,9,12,Deirdre (JPN),66,,No,No,41,434257,0,7,No,No,6,128,119,M Hashida,J P Spencer,2.5,Heavy,0
+2020,9,3,6,Way To Paris,21,C,Yes,No,29,621215,1,5,No,No,7,131,115,A Marcialis,I Mendizabal,0.05,Heavy,0
+2020,10,2,8,Royal Julius (IRE),14,,No,No,101,156352,0,2,Yes,No,7,131,108,J Reynier,S Foley,0.75,Heavy,0
+2020,11,11,13,Chachnak (FR),28,C,Yes,No,101,633101,2,1,Yes,Yes,3,124,108,F Vermeulen,T Piccone,20,Heavy,0
+2020,0,4,11,Japan,22,D,No,Yes,15,144335,0,5,No,No,4,131,121,A P O'Brien,Yutaka Take,,Heavy,0
+2020,0,5,10,Sovereign (IRE),21,BF,No,No,51,301326,0,6,No,No,4,131,116,A P O'Brien,M Barzalona,,Heavy,0
+2020,0,13,3,Mogul,21,D,No,Yes,17,446131,2,1,Yes,Yes,3,124,119,A P O'Brien,R L Moore,,Heavy,0
+2020,0,14,15,Serpentine (IRE),21,D,No,Yes,13,5114,2,4,No,No,3,124,120,A P O'Brien,C Soumillon,,Heavy,0
+2019,1,2,3,Waldgeist,21,C,Yes,No,17,51331,1,1,Yes,Yes,5,131,122,A Fabre,P C Boudot,0,Very Soft,1
+2019,2,8,9,Enable,45,D,No,Yes,1.67,1111,3,1,Yes,Yes,5,128,128,J & T Gosden,L Dettori,1.75,Very Soft,1
+2019,3,12,1,Sottsass (FR),21,CD,Yes,Yes,9,15111,3,1,Yes,Yes,3,124,,J C Rouget,C Demuro,1.75,Very Soft,1
+2019,4,10,10,Japan,46,D,No,Yes,7,3111,3,1,Yes,Yes,3,124,122,A P O'Brien,R L Moore,0.5,Very Soft,1
+2019,5,9,8,Magical (IRE),22,D,No,Yes,13,2221,1,1,Yes,Yes,4,128,122,A P O'Brien,D O'Brien,6,Very Soft,0
+2019,6,11,6,Soft Light (FR),42,,No,No,67,252252,0,2,Yes,No,3,124,,J C Rouget,Yutaka Take,3.5,Very Soft,0
+2019,7,4,7,Kiseki (JPN),21,,No,No,67,25223,0,3,Yes,No,5,131,,K Sumii,C Soumillon,8,Very Soft,0
+2019,8,7,11,Nagano Gold,42,D,No,Yes,51,41323,0,3,Yes,No,5,131,105,V Luka,M Barzalona,4.5,Very Soft,0
+2019,9,1,5,French King,56,D,No,Yes,81,61111,3,1,Yes,Yes,4,131,,H A Pantall,O Peslier,4.5,Very Soft,0
+2019,10,3,12,Ghaiyyath (IRE),35,C,Yes,No,8.5,1131,2,1,Yes,Yes,4,131,127,C Appleby,W Buick,2.5,Very Soft,0
+2019,11,5,4,Blast Onepiece (JPN),49,D,No,Yes,51,41681,1,1,Yes,Yes,4,131,,M Otake,Y Kawada,0.05,Very Soft,0
+2019,12,6,2,Fierement (JPN),49,,No,No,81,21213,1,3,Yes,No,4,131,,T Tezuka,C P Lemaire,15,Very Soft,0
+2018,1,10,6,Enable,29,D,No,Yes,1.91,111111,3,1,Yes,Yes,4,128,128,J & T Gosden,L Dettori,0,Good to Soft,1
+2018,2,19,15,Sea of Class (IRE),45,D,No,Yes,5,21111,3,1,Yes,Yes,3,121,118,W J Haggas,James Doyle,0.25,Good to Soft,1
+2018,3,6,9,Cloth Of Stars (IRE),21,C,Yes,No,21,233643,0,3,Yes,No,5,131,117,A Fabre,V Cheminaud,0.75,Good to Soft,1
+2018,4,5,13,Waldgeist,21,D,No,Yes,5,451111,3,1,Yes,Yes,4,131,122,A Fabre,P C Boudot,0.75,Good to Soft,1
+2018,5,3,4,Capri (IRE),21,D,No,Yes,26,611015,1,5,No,No,4,131,118,A P O'Brien,D O'Brien,1.5,Good to Soft,1
+2018,6,2,7,Salouen (IRE),42,,No,No,81,332343,0,3,Yes,No,4,131,114,S Kirk,Oisin Murphy,0.5,Good to Soft,1
+2018,7,13,14,Kew Gardens (IRE),22,CD,Yes,Yes,8,291131,2,1,Yes,Yes,3,124,121,A P O'Brien,R L Moore,0.25,Good to Soft,0
+2018,8,17,3,Nelson (IRE),22,,No,No,81,163567,0,7,No,No,3,124,106,A P O'Brien,M C Hussey,0.25,Good to Soft,0
+2018,9,14,19,Study Of Man (IRE),22,,No,No,41,121135,1,5,No,No,3,124,115,P Bary,S Pasquier,0.25,Good to Soft,0
+2018,10,18,16,Magical (IRE),22,,No,No,41,244414,1,4,No,No,3,121,111,A P O'Brien,W M Lordan,0.75,Good to Soft,0
+2018,11,4,10,Way To Paris,21,,No,No,126,242364,0,4,No,No,5,131,116,A Marcialis,G Mosse,0.5,Good to Soft,0
+2018,12,8,5,Tiberian (FR),42,D,No,Yes,101,704725,0,5,No,No,6,131,108,A Couetil,W Buick,0.75,Good to Soft,0
+2018,13,7,8,Talismanic,21,D,No,Yes,21,121912,1,2,Yes,No,5,131,119,A Fabre,M Barzalona,4.5,Good to Soft,0
+2018,14,12,2,Patascoy (FR),53,,No,No,34,131222,0,2,Yes,No,3,124,114,X Thomas Demeaulte,O Peslier,0.25,Good to Soft,0
+2018,15,1,18,Defoe (IRE),35,BF,No,No,41,101132,1,2,Yes,No,4,131,117,R Varian,Andrea Atzeni,0.5,Good to Soft,0
+2018,16,16,12,Hunting Horn (IRE),21,,No,No,41,361382,0,2,Yes,No,3,124,115,A P O'Brien,J A Heffernan,4.5,Good to Soft,0
+2018,17,9,1,Clincher (JPN),21,,No,No,67,921336,0,6,No,No,4,131,116,H Miyamoto,Yutaka Take,2,Good to Soft,0
+2018,18,11,11,Neufbosc (FR),21,CD,Yes,Yes,34,121123,1,3,Yes,No,3,124,112,Mme P Brandt,C Demuro,3.5,Good to Soft,0
+2018,19,15,17,Louis D'Or (IRE),21,,No,No,151,303356,0,6,No,No,3,124,109,T Castanheira,A Hamelin,99,Good to Soft,0
+2017,1,17,2,Enable,38,D,No,Yes,1.91,311111,3,1,Yes,Yes,3,121,126,J & T Gosden,L Dettori,0,Soft,1
+2017,2,5,3,Cloth Of Stars (IRE),21,C,Yes,No,26,111112,2,2,Yes,No,4,131,,A Fabre,M Barzalona,,Soft,1
+2017,3,4,1,Ulysses (IRE),39,D,No,Yes,10,413121,2,1,Yes,Yes,4,131,127,Sir Michael Stoute,Jim Crowley,,Soft,1
+2017,4,12,9,Order Of St George (IRE),21,,No,No,9,421211,2,1,Yes,Yes,5,131,120,A P O'Brien,D O'Brien,,Soft,1
+2017,5,14,4,Brametot (IRE),47,C,Yes,No,21,111115,2,5,No,No,3,124,,J C Rouget,C Demuro,,Soft,1
+2017,6,1,18,Zarak (FR),91,D,No,Yes,29,225511,2,1,Yes,Yes,4,131,,A De Royer Dupre,C Soumillon,,Soft,1
+2017,7,2,12,Doha Dream (FR),35,C,Yes,No,201,31522,0,2,Yes,No,4,131,,A Fabre,G Benoist,,Soft,0
+2017,8,3,11,One Foot In Heaven (IRE),15,D,No,Yes,81,333722,0,2,Yes,No,5,131,113,A De Royer Dupre,James Doyle,,Soft,0
+2017,9,6,16,Silverwave (FR),21,D,No,Yes,151,331225,0,5,No,No,5,131,,P Bary,P C Boudot,,Soft,0
+2017,10,7,7,Idaho (IRE),36,BF,No,No,26,56136,1,6,No,No,4,131,121,A P O'Brien,J A Heffernan,,Soft,0
+2017,11,8,10,Dschingis Secret (GER),21,D,No,Yes,15,511111,3,1,Yes,Yes,4,131,,Markus Klug,A de Vries,,Soft,0
+2017,12,9,13,Satono Diamond (JPN),21,D,No,Yes,41,111134,1,4,No,No,4,131,,Y Ikee,C P Lemaire,,Soft,0
+2017,13,10,5,Satono Noblesse (JPN),21,D,No,Yes,251,203006,0,6,No,No,7,131,,Y Ikee,Yuga Kawada,,Soft,0
+2017,14,11,6,Iquitos (GER),28,D,No,Yes,101,221122,1,2,Yes,No,5,131,,H -J Graschel,A Starke,,Soft,0
+2017,15,13,17,Seventh Heaven (IRE),21,D,No,Yes,51,154219,1,9,No,No,4,128,119,A P O'Brien,P J Smullen,,Soft,0
+2017,16,15,15,Capri (IRE),15,D,No,Yes,21,343611,2,1,Yes,Yes,3,124,120,A P O'Brien,W M Lordan,,Soft,0
+2017,17,16,14,Plumatic,15,,No,No,101,1202,0,2,Yes,No,3,124,,A Fabre,M Guyon,,Soft,0
+2017,18,18,8,Winter (IRE),22,BF,No,No,10,211112,2,2,Yes,No,3,121,119,A P O'Brien,R L Moore,,Soft,0
+2016,1,10,12,Found (IRE),22,D,No,Yes,7,122222,0,2,Yes,No,4,128,118,A P O'Brien,R L Moore,0,Good,1
+2016,2,4,11,Highland Reel (IRE),22,D,No,Yes,21,482127,1,7,No,No,4,131,121,A P O'Brien,J A Heffernan,,Good,1
+2016,3,8,16,Order Of St George (IRE),21,BF,No,No,15,111112,2,2,Yes,No,4,131,124,A P O'Brien,L Dettori,,Good,1
+2016,4,9,3,Siljan's Saga (FR),35,C,Yes,No,101,48232,0,2,Yes,No,6,128,,J P Gauvin,P C Boudot,,Good,1
+2016,5,1,8,New Bay,22,C,Yes,No,13,33614,1,4,No,No,4,131,121,A Fabre,V Cheminaud,,Good,1
+2016,6,2,7,Postponed (IRE),46,D,No,Yes,2.88,111111,3,1,Yes,Yes,5,131,124,R Varian,Andrea Atzeni,,Good,0
+2016,7,3,13,Migwar (IRE),23,D,No,Yes,101,32521,1,1,Yes,Yes,4,131,,F Head,O Peslier,,Good,0
+2016,8,5,9,One Foot In Heaven (IRE),21,D,No,Yes,101,111164,1,4,No,No,4,131,,A De Royer Dupre,C Demuro,,Good,0
+2016,9,6,2,The Grey Gatsby (IRE),46,C,Yes,No,51,236426,0,6,No,No,5,131,114,K A Ryan,James Doyle,,Good,0
+2016,10,7,4,Silverwave (FR),21,D,No,Yes,17,723311,2,1,Yes,Yes,4,131,,P Bary,C Soumillon,,Good,0
+2016,11,11,6,Harzand (IRE),22,BF,No,No,6.5,511118,2,8,No,No,3,123,123,D K Weld,P J Smullen,,Good,0
+2016,12,12,1,Vedevani (FR),18,,No,No,251,44463,0,3,Yes,No,3,123,,A De Royer Dupre,A Badel,,Good,0
+2016,13,13,5,Talismanic,18,D,No,Yes,41,214451,1,1,Yes,Yes,3,123,,A Fabre,M Barzalona,,Good,0
+2016,14,14,14,Makahiki (JPN),21,D,No,Yes,7.5,11211,2,1,Yes,Yes,3,123,,Y Tomomichi,C P Lemaire,,Good,0
+2016,15,15,10,Savoir Vivre (IRE),35,D,No,Yes,41,455221,1,1,Yes,Yes,3,123,,J Carvalho,F Tylicki,,Good,0
+2016,16,16,15,Left Hand,21,CD,Yes,Yes,17,642211,2,1,Yes,Yes,3,120,,C Laffon-Parias,M Guyon,,Good,0
+2015,1,16,14,Golden Horn,22,D,No,Yes,5.5,111121,2,1,Yes,Yes,3,123,130,J & T Gosden,L Dettori,0,Good,1
+2015,2,1,11,Flintshire,36,D,No,Yes,21,22232,0,2,Yes,No,5,131,121,A Fabre,M Guyon,,Good,1
+2015,3,13,5,New Bay,21,C,Yes,No,6,221111,3,1,Yes,Yes,3,123,,A Fabre,V Cheminaud,,Good,1
+2015,4,9,8,Treve (FR),21,C,Yes,No,2,11111,3,1,Yes,Yes,5,128,130,Mme C Head-Maarek,T Jarnet,,Good,1
+2015,5,2,3,Eagle Top,15,BF,No,No,34,144223,0,3,Yes,No,4,131,121,J & T Gosden,W Buick,,Good,1
+2015,6,3,1,Manatee,98,D,No,Yes,67,44114,2,4,No,No,4,131,,A Fabre,M Barzalona,,Good,1
+2015,7,5,10,Prince Gibraltar (FR),28,D,No,Yes,67,662231,1,1,Yes,Yes,4,131,,J C Rouget,F Veron,,Good,0
+2015,8,6,18,Spiritjim (FR),21,C,Yes,No,101,644472,0,2,Yes,No,5,131,,A Couetil,Andrea Atzeni,,Good,0
+2015,9,7,12,Free Eagle (IRE),22,,No,No,15,121313,1,3,Yes,No,4,131,123,D K Weld,P J Smullen,,Good,0
+2015,10,8,13,Dolniya (FR),21,D,No,Yes,34,111234,0,4,No,No,4,128,,A De Royer Dupre,C Soumillon,,Good,0
+2015,11,10,6,Frine (IRE),21,D,No,Yes,201,65334,0,4,No,No,5,128,,C Laffon-Parias,O Peslier,,Good,0
+2015,12,11,7,Siljan's Saga (FR),35,D,No,Yes,151,855111,3,1,Yes,Yes,5,128,,J P Gauvin,P C Boudot,,Good,0
+2015,13,12,9,Tapestry (IRE),21,D,No,Yes,34,621902,0,2,Yes,No,4,128,118,A P O'Brien,Joseph O'Brien,,Good,0
+2015,14,14,17,Silverwave (FR),21,C,Yes,No,101,119442,0,2,Yes,No,3,123,,A Couetil,James Doyle,,Good,0
+2015,15,15,4,Erupt (IRE),21,D,No,Yes,26,111114,2,4,No,No,3,123,,F Graffard,S Pasquier,,Good,0
+2015,16,17,2,Shahah,20,,No,No,251,10545,0,5,No,No,3,120,77,Mme C Head-Maarek,Gregory Benoist,,Good,0
+2015,17,18,15,Found (IRE),22,C,Yes,No,19,122212,1,2,Yes,No,3,120,113,A P O'Brien,R L Moore,,Good,0
+2015,0,4,16,Meleagros (IRE),35,D,No,Yes,101,111544,0,4,No,No,6,131,,A Couetil,A Fouassier,,Good,0
+2014,1,8,3,Treve (FR),21,BF,No,No,12,111234,0,4,No,No,4,128,130,Mme C Head-Maarek,T Jarnet,0,Good,1
+2014,2,1,4,Flintshire,21,BF,No,No,17,148242,0,2,Yes,No,4,131,119,A Fabre,M Guyon,,Good,1
+2014,3,18,15,Taghrooda,45,BF,No,No,5.5,11112,2,2,Yes,No,3,120,124,J & T Gosden,P Hanagan,,Good,1
+2014,4,14,20,Kingston Hill,22,,No,No,26,118241,1,1,Yes,Yes,3,123,120,R Varian,Andrea Atzeni,,Good,1
+2014,5,17,5,Dolniya (FR),21,D,No,Yes,17,21113,2,3,Yes,No,3,120,,A de Royer-Dupre,C Soumillon,,Good,1
+2014,6,19,12,Harp Star (JPN),42,,No,No,9,121121,2,1,Yes,Yes,3,120,,H Matsuda,Yuga Kawada,,Good,1
+2014,7,13,9,Prince Gibraltar (FR),51,,No,No,29,111323,0,3,Yes,No,3,123,,J C Rouget,J B Eyquem,,Good,0
+2014,8,7,14,Just A Way (JPN),119,,No,No,8,221111,3,1,Yes,Yes,5,131,,N Sugai,Y Fukunaga,,Good,0
+2014,9,2,6,Ruler Of The World (IRE),21,D,No,Yes,13,527301,1,1,Yes,Yes,4,131,122,A P O'Brien,L Dettori,,Good,0
+2014,10,3,7,Al Kazeem,22,D,No,Yes,67,326415,1,5,No,No,6,131,115,R Charlton,James Doyle,,Good,0
+2014,11,16,1,Avenir Certain (FR),47,C,Yes,No,9,111111,3,1,Yes,Yes,3,120,,J C Rouget,C P Lemaire,,Good,0
+2014,12,10,16,Siljan's Saga (FR),21,D,No,Yes,101,543127,1,7,No,No,4,128,,J P Gauvin,P C Boudot,,Good,0
+2014,13,20,8,Tapestry (IRE),22,D,No,Yes,15,206219,1,9,No,No,3,120,122,A P O'Brien,R L Moore,,Good,0
+2014,14,6,2,Gold Ship (JPN),42,D,No,Yes,13,31712,1,2,Yes,No,5,131,,N Sugai,N Yokoyama,,Good,0
+2014,15,9,18,Chicquita (IRE),21,D,No,Yes,41,3212,1,2,Yes,No,4,128,115,A P O'Brien,Joseph O'Brien,,Good,0
+2014,16,5,13,Spiritjim (FR),21,C,Yes,No,67,11113,2,3,Yes,No,4,131,,P Bary,S Pasquier,,Good,0
+2014,17,11,10,Ectot,21,C,Yes,No,7,111111,3,1,Yes,Yes,3,123,,E Lellouche,Gregory Benoist,,Good,0
+2014,18,4,19,Ivanhowe (GER),28,D,No,Yes,26,118161,2,1,Yes,Yes,4,131,,J Carvalho,W Buick,,Good,0
+2014,19,15,17,Free Port Lux,15,C,Yes,No,101,210421,1,1,Yes,Yes,3,123,,F Head,M Barzalona,,Good,0
+2014,20,12,11,Montviron (FR),102,C,Yes,No,201,3315,1,5,No,No,3,123,,E Lellouche,C Stefan,,Good,0
+2013,1,8,3,Treve (FR),21,BF,No,No,12,111234,0,4,No,No,4,128,130,Mme C Head-Maarek,T Jarnet,0,Soft,1
+2013,2,1,4,Flintshire,21,BF,No,No,17,148242,0,2,Yes,No,4,131,119,A Fabre,M Guyon,,Soft,1
+2013,3,18,15,Taghrooda,45,BF,No,No,5.5,11112,2,2,Yes,No,3,120,124,J & T Gosden,P Hanagan,,Soft,1
+2013,4,14,20,Kingston Hill,22,,No,No,26,118241,1,1,Yes,Yes,3,123,120,R Varian,Andrea Atzeni,,Soft,1
+2013,5,17,5,Dolniya (FR),21,D,No,Yes,17,21113,2,3,Yes,No,3,120,,A de Royer-Dupre,C Soumillon,,Soft,1
+2013,6,19,12,Harp Star (JPN),42,,No,No,9,121121,2,1,Yes,Yes,3,120,,H Matsuda,Yuga Kawada,,Soft,1
+2013,7,13,9,Prince Gibraltar (FR),51,,No,No,29,111323,0,3,Yes,No,3,123,,J C Rouget,J B Eyquem,,Soft,0
+2013,8,7,14,Just A Way (JPN),119,,No,No,8,221111,3,1,Yes,Yes,5,131,,N Sugai,Y Fukunaga,,Soft,0
+2013,9,2,6,Ruler Of The World (IRE),21,D,No,Yes,13,527301,1,1,Yes,Yes,4,131,122,A P O'Brien,L Dettori,,Soft,0
+2013,10,3,7,Al Kazeem,22,D,No,Yes,67,326415,1,5,No,No,6,131,115,R Charlton,James Doyle,,Soft,0
+2013,11,16,1,Avenir Certain (FR),47,C,Yes,No,9,111111,3,1,Yes,Yes,3,120,,J C Rouget,C P Lemaire,,Soft,0
+2013,12,10,16,Siljan's Saga (FR),21,D,No,Yes,101,543127,1,7,No,No,4,128,,J P Gauvin,P C Boudot,,Soft,0
+2013,13,20,8,Tapestry (IRE),22,D,No,Yes,15,206219,1,9,No,No,3,120,122,A P O'Brien,R L Moore,,Soft,0
+2013,14,6,2,Gold Ship (JPN),42,D,No,Yes,13,31712,1,2,Yes,No,5,131,,N Sugai,N Yokoyama,,Soft,0
+2013,15,9,18,Chicquita (IRE),21,D,No,Yes,41,3212,1,2,Yes,No,4,128,115,A P O'Brien,Joseph O'Brien,,Soft,0
+2013,16,5,13,Spiritjim (FR),21,C,Yes,No,67,11113,2,3,Yes,No,4,131,,P Bary,S Pasquier,,Soft,0
+2013,17,11,10,Ectot,21,C,Yes,No,7,111111,3,1,Yes,Yes,3,123,,E Lellouche,Gregory Benoist,,Soft,0
+2013,18,4,19,Ivanhowe (GER),28,D,No,Yes,26,118161,2,1,Yes,Yes,4,131,,J Carvalho,W Buick,,Soft,0
+2013,19,15,17,Free Port Lux,15,C,Yes,No,101,210421,1,1,Yes,Yes,3,123,,F Head,M Barzalona,,Soft,0
+2013,20,12,11,Montviron (FR),102,C,Yes,No,201,3315,1,5,No,No,3,123,,E Lellouche,C Stefan,,Soft,0
+2012,1,10,6,Solemia (IRE),21,D,No,Yes,34,212143,1,3,Yes,No,4,128,,C Laffon-Parias,O Peslier,0,Good to Soft,1
+2012,2,6,18,Orfevre (JPN),21,D,No,Yes,6,1,1,1,Yes,Yes,4,131,,Y Ikee,C Soumillon,,Good to Soft,1
+2012,3,14,17,Masterstroke (USA),42,C,Yes,No,12,112211,2,1,Yes,Yes,3,123,,A Fabre,M Barzalona,,Good to Soft,1
+2012,4,9,1,Haya Landa (FR),29,C,Yes,No,151,282255,0,5,No,No,4,128,,Mme L Audon,F Blondel,,Good to Soft,1
+2012,5,1,16,Sea Moon,78,BF,No,No,10,132115,2,5,No,No,4,131,,Sir Michael Stoute,R L Moore,,Good to Soft,1
+2012,6,2,10,St Nicholas Abbey (IRE),29,D,No,Yes,15,35,0,5,No,No,5,131,,A P O'Brien,Joseph O'Brien,,Good to Soft,1
+2012,7,3,13,Meandre (FR),21,D,No,Yes,21,126212,1,2,Yes,No,4,131,,A Fabre,M Guyon,,Good to Soft,0
+2012,8,4,9,Mikhail Glinka (IRE),43,D,No,Yes,101,721921,1,1,Yes,Yes,5,131,,A shavuyev,Mirco Demuro,,Good to Soft,0
+2012,9,5,12,Robin Hood (IRE),46,,No,No,501,436008,0,8,No,No,4,131,,A P O'Brien,J A Heffernan,,Good to Soft,0
+2012,10,7,8,Aventino (JPN),21,,No,No,251,5,0,5,No,No,8,131,,Y Ikee,A Crastus,,Good to Soft,0
+2012,11,8,11,Shareta (IRE),21,D,No,Yes,15,323221,1,1,Yes,Yes,4,128,,A de Royer-Dupre,C P Lemaire,,Good to Soft,0
+2012,12,11,14,Bayrir (FR),21,,No,No,23,14112,2,2,Yes,No,3,123,,A de Royer-Dupre,G Mosse,,Good to Soft,0
+2012,13,12,15,Kesampour (FR),21,,No,No,29,111145,1,5,No,No,3,123,,M Delzangles,Gregory Benoist,,Good to Soft,0
+2012,14,13,5,Camelot,22,BF,No,No,3,111112,2,2,Yes,No,3,123,,A P O'Brien,L Dettori,,Good to Soft,0
+2012,15,15,4,Ernest Hemingway (IRE),143,BF,No,No,151,17,1,7,No,No,3,123,,A P O'Brien,C O'Donoghue,,Good to Soft,0
+2012,16,16,2,Saonois (FR),21,C,Yes,No,10,211411,2,1,Yes,Yes,3,123,,J P Gauvin,A Hamelin,,Good to Soft,0
+2012,17,17,3,Yellow And Green,21,D,No,Yes,15,23214,1,4,No,No,3,120,,Clement,T Thulliez,,Good to Soft,0
+2012,18,18,7,Great Heavens,77,D,No,Yes,7,51111,3,1,Yes,Yes,3,120,,J & T Gosden,W Buick,,Good to Soft,0
+2011,1,15,2,Danedream (GER),28,D,No,Yes,21,431511,2,1,Yes,Yes,3,120,,P Schiergen,A Starke,0,Good,1
+2011,2,13,9,Shareta (IRE),21,D,No,Yes,67,217113,2,3,Yes,No,3,120,,A de Royer-Dupre,T Jarnet,,Good,1
+2011,3,8,11,Snow Fairy (IRE),29,D,No,Yes,15,411422,0,2,Yes,No,4,128,,E A L Dunlop,L Dettori,,Good,1
+2011,4,6,14,So You Think (NZ),29,,No,No,5.5,311211,2,1,Yes,Yes,5,131,,A P O'Brien,J A Heffernan,,Good,1
+2011,5,2,6,St Nicholas Abbey (IRE),21,D,No,Yes,34,631133,1,3,Yes,No,4,131,,A P O'Brien,Joseph O'Brien,,Good,1
+2011,6,10,10,Meandre (FR),21,BF,No,No,13,221112,2,2,Yes,No,3,123,,A Fabre,M Guyon,,Good,0
+2011,7,7,13,Sarafina (FR),21,C,Yes,No,5,332111,3,1,Yes,Yes,4,128,,A de Royer-Dupre,C P Lemaire,,Good,0
+2011,8,3,15,Silver Pond (FR),35,C,Yes,No,101,346132,1,2,Yes,No,4,131,,C Laffon-Parias,T Thulliez,,Good,0
+2011,9,16,4,Galikova (FR),21,C,Yes,No,8,511211,2,1,Yes,Yes,3,120,,F Head,O Peslier,,Good,0
+2011,10,4,1,Hiruno D'Amour (JPN),21,,No,No,11,223112,2,2,Yes,No,4,131,,M Kon,S Fujita,,Good,0
+2011,11,5,16,Nakayama Festa (JPN),21,D,No,Yes,29,112204,0,4,No,No,5,131,,Y Ninomiya,M Ebina,,Good,0
+2011,12,1,8,Workforce,71,BF,No,No,11,151122,1,2,Yes,No,4,131,,Sir Michael Stoute,R L Moore,,Good,0
+2011,13,14,3,Testosterone (IRE),21,C,Yes,No,67,313112,2,2,Yes,No,3,120,,P Bary,S Pasquier,,Good,0
+2011,14,9,12,Treasure Beach,50,D,No,Yes,29,312141,2,1,Yes,Yes,3,123,,A P O'Brien,C O'Donoghue,,Good,0
+2011,15,12,7,Reliable Man,21,CD,Yes,Yes,13,11131,2,1,Yes,Yes,3,123,,A de Royer-Dupre,G Mosse,,Good,0
+2011,16,11,5,Masked Marvel,22,,No,No,15,651811,2,1,Yes,Yes,3,123,,J & T Gosden,W Buick,,Good,0
+2010,1,13,8,Workforce,71,BF,No,No,7,1215,1,5,No,No,3,123,126,Sir Michael Stoute,R L Moore,0,Soft,1
+2010,2,7,10,Nakayama Festa (JPN),21,D,No,Yes,23,100112,2,2,Yes,No,4,130,,Y Ninomiya,M Ebina,0.25,Soft,1
+2010,3,20,3,Sarafina (FR),21,C,Yes,No,13,1113,2,3,Yes,No,3,119,,A de Royer-Dupre,G Mosse,2.5,Soft,1
+2010,4,14,9,Behkabad (FR),21,C,Yes,No,4.5,131411,2,1,Yes,Yes,3,123,,J C Rouget,C P Lemaire,1.5,Soft,1
+2010,5,3,1,Fame And Glory,56,D,No,Yes,5.5,631111,3,1,Yes,Yes,4,130,128,A P O'Brien,Johnny Murtagh,1,Soft,1
+2010,6,2,17,Marinous (FR),35,D,No,Yes,51,312431,1,1,Yes,Yes,4,130,,F Head,D Bonilla,1,Soft,1
+2010,7,19,5,Victoire Pisa (JPN),21,,No,No,41,111134,1,4,No,No,3,123,,K Sumii,Yutaka Take,2,Soft,0
+2010,8,6,4,Cavalryman,28,CD,Yes,Yes,21,755043,0,3,Yes,No,4,130,117,S bin Suroor,L Dettori,,Soft,0
+2010,9,10,20,Liang Kay (EG),36,BF,No,No,151,123443,0,3,Yes,No,5,130,,U Ostmann,S Pasquier,,Soft,0
+2010,10,1,12,Youmzain (IRE),71,D,No,Yes,13,208423,0,3,Yes,No,7,130,117,M R Channon,Richard Hughes,,Soft,0
+2010,11,17,13,Lope De Vega (IRE),28,C,Yes,No,21,431185,1,5,No,No,3,123,,A Fabre,M Guyon,,Soft,0
+2010,12,5,6,Wiener Walzer (GER),28,D,No,Yes,101,143526,0,6,No,No,4,130,,J Hirschberger,T P Queally,,Soft,0
+2010,13,15,11,Cape Blanco (IRE),29,D,No,Yes,12,110121,2,1,Yes,Yes,3,123,119,A P O'Brien,C Soumillon,,Soft,0
+2010,14,8,14,Timos (GER),21,D,No,Yes,67,651523,0,3,Yes,No,5,130,,T Doumen,Kieren Fallon,,Soft,0
+2010,15,9,16,Duncan,21,D,No,Yes,34,932241,1,1,Yes,Yes,5,130,119,J & T Gosden,W Buick,,Soft,0
+2010,16,12,15,Plumania,21,C,Yes,No,26,344112,2,2,Yes,No,4,128,,A Fabre,O Peslier,,Soft,0
+2010,17,18,18,Midas Touch,22,,No,No,41,415222,0,2,Yes,No,3,123,112,A P O'Brien,J A Heffernan,,Soft,0
+2010,18,4,2,Pouvoir Absolu,35,D,No,Yes,151,511358,0,8,No,No,5,130,,E Lellouche,S Fargeat,,Soft,0
+2010,0,11,19,Tullamore (USA),98,D,No,Yes,0,220116,2,6,No,No,5,130,,Z Koplik,F Blondel,,Soft,0
+2009,1,18,6,Sea The Stars (IRE),29,D,No,Yes,1.67,111111,3,1,Yes,Yes,3,123,,J M Oxx,Mick Kinane,0,Good,1
+2009,2,1,1,Youmzain (IRE),28,BF,No,No,21,324233,0,3,Yes,No,6,131,,M R Channon,Kieren Fallon,2,Good,1
+2009,3,16,19,Cavalryman,21,CD,Yes,Yes,13,142111,3,1,Yes,Yes,3,123,,A Fabre,L Dettori,0.25,Good,1
+2009,4,2,12,Conduit (IRE),71,D,No,Yes,9,111231,1,1,Yes,Yes,4,131,,Sir Michael Stoute,R L Moore,0.25,Good,1
+2009,5,10,2,Dar Re Mi,21,D,No,Yes,26,232110,2,10,No,No,4,128,,J & T Gosden,J Fortune,1,Good,1
+2009,6,15,10,Fame And Glory,29,D,No,Yes,7,111212,1,2,Yes,No,3,123,,A P O'Brien,Johnny Murtagh,1,Good,1
+2009,7,12,8,La Boum (GER),42,D,No,Yes,501,924353,0,3,Yes,No,6,128,,Rob collet,T Jarnet,0.5,Good,0
+2009,8,3,9,Vision D'etat (FR),21,BF,No,No,15,153112,2,2,Yes,No,4,131,,E Libaud,O Peslier,,Good,0
+2009,9,4,17,Magadan (IRE),98,C,Yes,No,151,31135,1,5,No,No,4,131,,E Lellouche,A Crastus,,Good,0
+2009,10,5,19,The Bogberry (USA),28,,No,No,251,342555,0,5,No,No,4,131,,A de Royer-Dupre,M Kappushev,,Good,0
+2009,11,6,7,Steele Tango (USA),92,,No,No,501,243785,0,5,No,No,4,131,,R A Teal,D Holland,,Good,0
+2009,12,7,3,Getaway (GER),28,C,Yes,No,34,882121,2,1,Yes,Yes,6,131,,J Hirschberger,S Pasquier,,Good,0
+2009,13,8,13,Tullamore (USA),133,D,No,Yes,501,133477,0,7,No,No,4,131,,Z Koplik,V Janacek,,Good,0
+2009,14,9,4,Hot Six (BRZ),63,,No,No,251,221125,1,5,No,No,4,130,,G Duarte,T Pereira,,Good,0
+2009,15,11,11,Tangaspeed (FR),21,CD,Yes,Yes,501,349409,0,9,No,No,4,128,,R Laplanche,I Mendizabal,,Good,0
+2009,16,13,15,Beheshtam (FR),21,CD,Yes,Yes,17,11462,0,2,Yes,No,3,123,,A de Royer-Dupre,G Mosse,,Good,0
+2009,17,14,14,Set Sail (IRE),29,,No,No,501,239,0,9,No,No,3,123,,A P O'Brien,S M Levey,,Good,0
+2009,18,17,5,Grand Ducal (IRE),29,,No,No,301,124314,1,4,No,No,3,123,,A P O'Brien,P J Smullen,,Good,0
+2009,19,19,16,Stacelita (FR),21,BF,No,No,21,111111,3,1,Yes,Yes,3,120,,J C Rouget,C Soumillon,,Good,0
+2008,1,16,1,Zarkava (IRE),21,C,Yes,No,2.63,111111,3,1,Yes,Yes,3,120,,A de Royer-Dupre,C Soumillon,0,Good to Soft,1
+2008,2,1,3,Youmzain (IRE),71,D,No,Yes,13,425213,1,3,Yes,No,5,131,,M R Channon,R Hills,2,Good to Soft,1
+2008,3,6,9,Soldier of Fortune (IRE),98,BF,No,No,5.5,511512,1,2,Yes,No,4,131,,A P O'Brien,J A Heffernan,0.25,Good to Soft,1
+2008,4,9,2,It's Gino (GER),28,CD,Yes,Yes,151,111233,0,3,Yes,No,5,131,,P Vovcenko,T Thulliez,0.5,Good to Soft,1
+2008,5,12,8,Vision D'etat (FR),21,CD,Yes,Yes,8,111111,3,1,Yes,Yes,3,123,,E Libaud,I Mendizabal,1,Good to Soft,1
+2008,6,3,15,Ask,71,D,No,Yes,34,112155,1,5,No,No,5,131,,Sir Michael Stoute,R L Moore,0.3,Good to Soft,0
+2008,7,7,14,Duke Of Marmalade (IRE),43,C,Yes,No,5,311111,3,1,Yes,Yes,4,131,,A P O'Brien,Johnny Murtagh,0.25,Good to Soft,0
+2008,8,11,7,Getaway (GER),35,C,Yes,No,12,241551,1,1,Yes,Yes,5,131,,A Fabre,O Peslier,1,Good to Soft,0
+2008,9,15,16,Cima De Triomphe (IRE),18,,No,No,151,331171,2,1,Yes,Yes,3,123,,B Grizzetti,D Vargiu,1,Good to Soft,0
+2008,10,5,3,Meisho Samson (JAP),98,D,No,Yes,26,238622,0,2,Yes,No,5,131,,T Setoguchi,Yutaka Take,0.35,Good to Soft,0
+2008,11,13,12,Kamsin (GER),28,D,No,Yes,26,14111,3,1,Yes,Yes,3,123,,P Schiergen,J Victoire,2.5,Good to Soft,0
+2008,12,8,5,Papal Bull,49,BF,No,No,17,374222,0,2,Yes,No,5,131,,Sir Michael Stoute,J Fortune,1.5,Good to Soft,0
+2008,13,4,10,Schiaparelli (GER),21,D,No,Yes,34,311112,2,2,Yes,No,5,131,,S bin Suroor,L Dettori,4,Good to Soft,0
+2008,14,14,6,Blue Bresil (FR),43,,No,No,251,330375,0,5,No,No,3,123,,L Larrigade,W Mongil,3,Good to Soft,0
+2008,15,2,11,Zambezi Sun,21,C,Yes,No,51,386241,1,1,Yes,Yes,4,131,,P Bary,S Pasquier,10,Good to Soft,0
+2008,16,10,13,Red Rock Canyon (IRE),28,,No,No,251,330476,0,6,No,No,4,131,,A P O'Brien,C O'Donoghue,,Good to Soft,0
+2007,1,2,6,Dylan Thomas (IRE),29,D,No,Yes,6.6,122121,2,1,Yes,Yes,4,131,127,A P O'Brien,Kieren Fallon,0,Soft,1
+2007,2,1,4,Youmzain (IRE),35,D,No,Yes,67,133524,0,4,No,No,4,131,118,M R Channon,Richard Hughes,,Soft,1
+2007,3,11,11,Sagara (USA),21,,No,No,34,127352,0,2,Yes,No,3,123,,J E Pease,T Gillet,,Soft,1
+2007,4,5,10,Getaway (GER),21,BF,No,No,51,111312,1,2,Yes,No,4,131,,A Fabre,O Peslier,,Soft,1
+2007,5,10,5,Soldier of Fortune (IRE),21,CD,Yes,Yes,4.5,211511,2,1,Yes,Yes,3,123,125,A P O'Brien,Johnny Murtagh,,Soft,0
+2007,6,4,2,Saddex,56,D,No,Yes,26,432111,3,1,Yes,Yes,4,131,,P Rau,T Mundry,,Soft,0
+2007,7,6,3,Mandesha (FR),21,CD,Yes,Yes,13,111222,0,2,Yes,No,4,128,,A de Royer-Dupre,C Soumillon,,Soft,0
+2007,8,7,8,Zambezi Sun,21,BF,No,No,6.6,11413,1,3,Yes,No,3,123,,P Bary,S Pasquier,,Soft,0
+2007,9,3,1,Dragon Dancer,21,D,No,Yes,151,246013,1,3,Yes,No,4,131,113,G Wragg,D Holland,,Soft,0
+2007,10,12,12,Authorized (IRE),47,D,No,Yes,2.1,311121,2,1,Yes,Yes,3,123,128,P W Chapple-Hyam,L Dettori,,Soft,0
+2007,11,9,9,Yellowstone (IRE),29,D,No,Yes,151,834126,1,6,No,No,3,123,117,A P O'Brien,P J Smullen,,Soft,0
+2007,12,8,7,Song of Hiawatha,21,,No,No,301,81276,0,6,No,No,3,123,106,A P O'Brien,D McCabe,,Soft,0
+2006,1,5,4,Rail Link,21,CD,Yes,Yes,9,21111,3,1,Yes,Yes,3,123,,A Fabre,S Pasquier,,Good,1
+2006,2,4,5,Pride (FR),21,CD,Yes,Yes,12,224113,2,3,Yes,No,6,128,,A de Royer-Dupre,C P Lemaire,0.3,Good,1
+2006,3,1,2,Deep Impact (JPN),98,D,No,Yes,3.25,112111,3,1,Yes,Yes,4,131,,Yasup Ikee,Yutaka Take,0.5,Good,1
+2006,4,2,1,Hurricane Run (IRE),21,BF,No,No,3.5,111212,1,2,Yes,No,4,131,,A Fabre,Kieren Fallon,2.5,Good,0
+2006,5,8,3,Best Name,15,C,Yes,No,101,21281,1,1,Yes,Yes,3,123,,Robert Collet,O Peslier,2,Good,0
+2006,6,7,7,Irish Wells (FR),35,D,No,Yes,126,133611,2,1,Yes,Yes,3,123,,Rohaut (s),D Boeuf,0.25,Good,0
+2006,7,6,8,Sixties Icon,22,D,No,Yes,11,617311,2,1,Yes,Yes,3,123,,J Noseda,L Dettori,4,Good,0
+2006,8,3,6,Shirocco (GER),21,CD,Yes,Yes,3.75,341111,3,1,Yes,Yes,5,131,,A Fabre,C Soumillon,1.5,Good,0
+2005,1,13,6,Hurricane Run (IRE),21,CD,Yes,Yes,3.75,111211,2,1,Yes,Yes,3,123,,A Fabre,Kieren Fallon,0,Soft,1
+2005,2,2,4,Westerner,28,CD,Yes,Yes,17,111113,2,3,Yes,No,6,131,,E Lellouche,O Peslier,2,Soft,1
+2005,3,5,13,Bago (FR),71,CD,Yes,Yes,9,311233,0,3,Yes,No,4,131,,J E Pease,T Gillet,1.5,Soft,1
+2005,4,7,15,Shirocco (GER),21,D,No,Yes,26,313113,2,3,Yes,No,4,131,,A Fabre,S Pasquier,0.75,Soft,1
+2005,5,12,8,Motivator,22,D,No,Yes,3.5,111122,1,2,Yes,No,3,123,,M L W Bell,Johnny Murtagh,0.35,Soft,1
+2005,6,15,1,Shawanda (IRE),21,CD,Yes,Yes,4,211111,3,1,Yes,Yes,3,120,,A de Royer-Dupre,C Soumillon,1.5,Soft,0
+2005,7,8,14,Pride (FR),21,CD,Yes,Yes,17,12611,2,1,Yes,Yes,5,128,,A de Royer-Dupre,C P Lemaire,1.5,Soft,0
+2005,8,4,2,Warrsan (IRE),28,D,No,Yes,51,944541,1,1,Yes,Yes,7,131,,C E Brittain,Kerrin McEvoy,1.5,Soft,0
+2005,9,1,9,Mubtaker (USA),7,D,No,Yes,41,302111,3,1,Yes,Yes,8,131,,M P Tregoning,R Hills,3,Soft,0
+2005,10,11,10,Scorpion (IRE),22,CD,Yes,Yes,11,120211,2,1,Yes,Yes,3,123,,A P O'Brien,Mick Kinane,1.5,Soft,0
+2005,11,6,5,Norse Dancer (IRE),22,,No,No,67,556258,0,8,No,No,5,131,,D R C Elsworth,J F Egan,6,Soft,0
+2005,12,3,11,Cherry Mix (FR),28,BF,No,No,29,112405,0,5,No,No,4,131,,S bin Suroor,L Dettori,1.5,Soft,0
+2005,13,9,3,Samando (FR),28,CD,Yes,Yes,151,413974,0,4,No,No,5,128,,F Doumen,T Hellier,5,Soft,0
+2005,14,14,7,Windya (FR),22,,No,No,251,211271,1,1,Yes,Yes,3,120,,J C Rouget,T Jarnet,4,Soft,0
+2005,0,10,12,Voltmeter (IRE),24,,No,No,251,232134,1,4,No,No,3,123,,E Lellouche,T Thulliez,0.4,Soft,0
+2022,1,8,8,Place Du Carrousel (IRE),105,D,No,Yes,67,2-1120,1,10,No,No,3,123,102,A Fabre,M Barzalona,,Very Soft,1
+2022,2,7,13,Nashwa,66,D,No,Yes,3,3-11311,2,1,Yes,Yes,3,123,115,J & T Gosden,Hollie Doyle,,Very Soft,1
+2022,3,12,5,Above The Curve (USA),21,D,No,Yes,5,3-1211,2,1,Yes,Yes,3,123,111,J P O'Brien,R L Moore,,Very Soft,1
+2022,4,5,10,My Astra (IRE),98,BF,No,No,8.5,112-312,1,2,Yes,No,4,128,115,W J Haggas,Tom Marquand,,Very Soft,1
+2022,5,2,12,Rumi (FR),42,C,Yes,No,101,01/01/5624,0,4,No,No,4,128,109,C Laffon-Parias,O Peslier,,Very Soft,1
+2022,6,13,16,Tuesday (IRE),21,,No,No,13,321424,0,4,No,No,3,123,118,A P O'Brien,W M Lordan,,Very Soft,0
+2022,7,15,2,Mqse De Sevigne (IRE),43,C,Yes,No,51,01/01/1922,0,2,Yes,No,3,123,103,A Fabre,M Guyon,,Very Soft,0
+2022,8,14,11,Trevaunance (IRE),43,D,No,Yes,34,14-1511,2,1,Yes,Yes,3,123,110,Mrs J Harrington,S Foley,,Very Soft,0
+2022,9,4,3,Jupyra (FR),15,D,No,Yes,101,124-27,0,7,No,No,5,128,102,M Delzangles,C P Lemaire,,Very Soft,0
+2022,10,16,1,Fall In Love (IRE),21,,No,No,81,01/01/4556,0,6,No,No,3,123,,H Shimizu,S Planque,,Very Soft,0
+2022,11,3,9,Insinuendo (IRE),21,D,No,Yes,13,184-222,0,2,Yes,No,5,128,107,W McCreery,W J Lee,,Very Soft,0
+2022,12,6,6,Agave,21,C,Yes,No,81,112438,0,8,No,No,3,123,,A Fabre,B Murzabayev,,Very Soft,0
+2022,13,10,7,Rosacea (IRE),43,C,Yes,No,34,1-1436,0,6,No,No,3,123,,S Wattel,S Pasquier,,Very Soft,0
+2022,14,9,15,La Parisienne (FR),21,D,No,Yes,5,1-1223,0,3,Yes,No,3,123,,C & Y Lerner,G Mosse,,Very Soft,0
+2022,15,11,14,Zefania (FR),22,D,No,Yes,151,513452,0,2,Yes,No,3,123,,S Smrczek,R Piechulek,,Very Soft,0
+2022,16,1,4,Ebaiyra (USA),42,D,No,Yes,11,31/01/2812,1,2,Yes,No,5,128,108,F Graffard,C Soumillon,,Very Soft,0
+2021,1,11,14,Rougir (FR),43,,No,No,17,685243,0,3,Yes,No,3,123,110,C E Rossi,M Guyon,,Very Soft,1
+2021,2,1,7,Grand Glory,42,D,No,Yes,6,-26311,2,1,Yes,Yes,5,128,116,G Bietolini,L Dettori,,Very Soft,1
+2021,3,4,12,Eudaimonia (FR),28,D,No,Yes,41,136-44,0,4,No,No,6,128,103,E D Monfort,S Pasquier,,Very Soft,1
+2021,4,5,3,Audarya (FR),42,D,No,Yes,5,131-252,0,2,Yes,No,5,128,117,J R Fanshawe,I Mendizabal,,Very Soft,1
+2021,5,3,6,Thundering Nights (IRE),21,D,No,Yes,7,7-22133,1,3,Yes,No,4,128,113,J P O'Brien,S Crosse,,Very Soft,0
+2021,6,12,9,Zeyaadah (IRE),43,D,No,Yes,13,1-20126,1,6,No,No,3,123,112,R Varian,Jim Crowley,,Very Soft,0
+2021,7,14,11,Sibila Spain (IRE),31,D,No,Yes,9,11441,1,1,Yes,Yes,3,123,109,C H Head,O Peslier,,Very Soft,0
+2021,8,15,5,Incarville (FR),21,C,Yes,No,26,221755,0,5,No,No,3,123,107,D Smaga,C Soumillon,,Very Soft,0
+2021,9,2,2,Ambition,42,D,No,Yes,17,125-64,0,4,No,No,5,128,111,X Thomas-Demeaulte,G Mosse,,Very Soft,0
+2021,10,7,4,Joan Of Arc (IRE),21,D,No,Yes,9,612137,1,7,No,No,3,123,111,A P O'Brien,R L Moore,,Very Soft,0
+2021,11,9,13,Palmas (GER),63,D,No,Yes,12,20/04/1900,3,1,Yes,Yes,3,123,112,Andreas Wohler,E Pedroza,,Very Soft,0
+2021,12,8,15,Burgarita,21,C,Yes,No,11,11324,0,4,No,No,3,123,110,A Fabre,M Barzalona,,Very Soft,0
+2021,13,6,8,Ikat (JPN),63,,No,No,67,-3417,1,7,No,No,4,128,100,T Saito,Oisin Murphy,,Very Soft,0
+2021,14,10,1,Babylone (FR),43,C,Yes,No,23,01/01/2118,2,8,No,No,3,123,107,A Fabre,W Buick,,Very Soft,0
+2020,1,2,14,Tarnawa (IRE),21,C,Yes,No,3.75,0119-11,2,1,Yes,Yes,4,128,118,D K Weld,C Soumillon,,Heavy,1
+2020,2,13,4,Alpine Star (IRE),49,,No,No,2.5,311-122,1,2,Yes,No,3,123,118,Mrs J Harrington,S Foley,,Heavy,1
+2020,3,7,1,Audarya (FR),42,D,No,Yes,19,Dec-11,2,1,Yes,Yes,4,128,111,J R Fanshawe,I Mendizabal,,Heavy,1
+2020,4,8,9,Tawkeel,43,D,No,Yes,5,11111,3,1,Yes,Yes,3,123,114,J C Rouget,C Demuro,,Heavy,1
+2020,5,5,7,Ambition,42,D,No,Yes,9,131-12,2,2,Yes,No,4,128,110,X Thomas-Demeaulte,M Barzalona,,Heavy,0
+2020,6,9,10,Tickle Me Green (GER),16,D,No,Yes,12,-39125,1,5,No,No,3,123,109,F Graffard,P C Boudot,,Heavy,0
+2020,7,1,6,Grand Glory,21,D,No,Yes,51,3-1239,0,9,No,No,4,128,106,G Bietolini,L Dettori,,Heavy,0
+2020,8,14,5,Inter Royal Lady (IRE),,,No,No,151,-11121,2,1,Yes,Yes,3,123,95,A wyrzyk,S Mazur,,Heavy,0
+2020,9,3,2,All Rumours (FR),18,D,No,Yes,67,31-141,2,1,Yes,Yes,4,128,104,X Thomas-Demeaulte,Tom Marquand,,Heavy,0
+2020,10,6,11,Spirit Of Nelson (IRE),42,D,No,Yes,81,Jun-16,1,6,No,No,5,12,104,J Reynier,M Guyon,,Heavy,0
+2020,11,10,8,Zariyannka (IRE),,,No,No,251,42195,1,5,No,No,3,123,81,Zdenek Koplik,Rad Koplik,,Heavy,0
+2020,12,4,3,Durance (GER),21,D,No,Yes,34,-22145,1,5,No,No,4,128,109,P Schiergen,O Peslier,,Heavy,0
+2019,1,5,7,Villa Marina,21,D,No,Yes,19,Nov-81,2,4,No,No,3,123,,C Laffon-Parias,O Peslier,,Very Soft,1
+2019,2,11,12,Fleeting (IRE),21,,No,No,17,32245,0,5,No,No,3,123,,A P O'Brien,W M Lordan,,Very Soft,1
+2019,3,3,11,Watch Me (FR),56,,No,No,11,1-1614,1,4,No,No,3,123,,F Graffard,P C Boudot,,Very Soft,1
+2019,4,12,4,Commes (FR),52,,No,No,13,Feb-23,0,3,Yes,No,3,123,,J C Rouget,Yutaka Take,,Very Soft,1
+2019,5,8,9,Terebellum (IRE),50,D,No,Yes,9,131,2,1,Yes,Yes,3,123,,J & T Gosden,M Barzalona,,Very Soft,0
+2019,6,2,1,With You,49,,No,No,7,34-822,0,2,Yes,No,4,128,,F Head,A Lemaitre,,Very Soft,0
+2019,7,1,2,Ligne D'Or,21,D,No,Yes,26,Jan-43,0,3,Yes,No,4,128,,A Fabre,V Cheminaud,,Very Soft,0
+2019,8,4,8,Pink Dogwood (IRE),21,D,No,Yes,8.5,5-12338,0,8,No,No,3,123,,A P O'Brien,R L Moore,,Very Soft,0
+2019,9,9,5,Etoile (FR),50,D,No,Yes,34,112146,1,6,No,No,3,123,,J C Rouget,C Demuro,,Very Soft,0
+2019,10,7,3,Mehdaayih,66,D,No,Yes,2.37,1-11712,1,2,Yes,No,3,123,,J & T Gosden,L Dettori,,Very Soft,0
+2019,11,6,10,Cartiem (FR),50,D,No,Yes,101,-11073,0,3,Yes,No,3,123,,J C Rouget,M Guyon,,Very Soft,0
+2018,1,11,5,Wild Illusion,66,D,No,Yes,2.87,31-4221,1,1,Yes,Yes,3,123,115,C Appleby,W Buick,,Good to Soft,1
+2018,2,16,9,Magic Wand (IRE),21,,No,No,6,141552,0,2,Yes,No,3,123,113,A P O'Brien,R L Moore,,Good to Soft,1
+2018,3,9,1,Homerique (USA),28,D,No,Yes,11,12317,1,7,No,No,3,123,112,F Graffard,C Soumillon,,Good to Soft,1
+2018,4,15,3,With You,56,,No,No,5.5,Nov-13,1,3,Yes,No,3,123,115,F Head,A Lemaitre,,Good to Soft,1
+2018,5,14,4,Well Timed (GER),21,D,No,Yes,41,4-11116,2,6,No,No,3,123,110,J Carvalho,M Guyon,,Good to Soft,1
+2018,6,10,12,My Sister Nat (FR),15,C,Yes,No,26,21231,1,1,Yes,Yes,3,123,109,F Graffard,M Barzalona,,Good to Soft,0
+2018,7,5,6,Navaro Girl (IRE),49,D,No,Yes,51,16-4363,0,3,Yes,No,4,128,110,P Schiergen,C Demuro,,Good to Soft,0
+2018,8,7,8,Athena (IRE),22,D,No,Yes,26,143174,1,4,No,No,3,123,113,A P O'Brien,W M Lordan,,Good to Soft,0
+2018,9,1,14,Urban Fox,49,D,No,Yes,13,4-14122,1,2,Yes,No,4,128,115,W J Haggas,James Doyle,,Good to Soft,0
+2018,10,2,7,Lady Frankel,49,,No,No,8,3173-24,0,4,No,No,4,128,112,A Fabre,P C Boudot,,Good to Soft,0
+2018,11,8,2,Castellar (FR),50,D,No,Yes,17,5-12101,2,1,Yes,Yes,3,123,109,C Laffon-Parias,O Peslier,,Good to Soft,0
+2018,12,4,10,Rhododendron (IRE),22,D,No,Yes,15,419696,0,6,No,No,4,128,115,A P O'Brien,D O'Brien,,Good to Soft,0
+2018,13,3,13,L'arc (JPN),25,,No,No,101,88,0,8,No,No,5,128,90,M Matsunaga,Yutaka Take,,Good to Soft,0
+2018,14,6,11,Desert Diamond,36,BF,No,No,19,114212,1,2,Yes,No,3,123,107,Sir Michael Stoute,Oisin Murphy,,Good to Soft,0
+2018,15,12,15,Winter Lightning (IRE),18,,No,No,67,2-11335,0,5,No,No,3,123,106,S bin Suroor,Hector Crouch,,Good to Soft,0
+2022,1,7,1,Kyprios (IRE),20,D,No,Yes,1.57,4-11111,3,1,Yes,Yes,4,128,120,A P O'Brien,R L Moore,,Very Soft,1
+2022,2,2,10,Almacado Gree (FR),74,,No,No,101,-34201,1,1,Yes,Yes,7,128,,B Audouin,T Piccone,,Very Soft,1
+2022,3,4,9,Tashkhan (IRE),43,,No,No,11,52-5354,0,4,No,No,4,128,113,B Ellison,Ben Robinson,,Very Soft,1
+2022,4,10,12,Princess Zoe (GER),20,CD,Yes,Yes,17,5-01676,0,6,No,No,7,124,108,A Mullins,J M Sheridan,,Very Soft,0
+2022,5,11,11,Lismore (IRE),20,,No,No,26,8214-83,0,3,Yes,No,5,124,107,H De Bromhead,S Pasquier,,Very Soft,0
+2022,6,3,2,Quickthorn,43,C,Yes,No,4.33,9-22111,3,1,Yes,Yes,5,128,117,H Morrison,Tom Marquand,,Very Soft,0
+2022,7,5,3,Sapienti (CZE),97,,No,No,101,13-113,2,3,Yes,No,7,128,,Martina Havelkova,M Havelkova,,Very Soft,0
+2022,8,12,7,Lubiane (GER),35,,No,No,101,-89228,0,8,No,No,6,124,,P Vovcenko,M Velon,,Very Soft,0
+2022,9,1,6,Goya Senora (FR),41,,No,No,51,534121,2,1,Yes,Yes,6,128,93,Y Barberot,G Benoist,,Very Soft,0
+2022,10,8,5,Vivienne Wells (FR),41,,No,No,101,Mar-11,2,1,Yes,Yes,5,124,,B Nedorostek,B Murzabayev,,Very Soft,0
+2021,1,9,6,Trueshan (FR),67,,No,No,2.1,811-261,1,1,Yes,Yes,5,128,118,A King,James Doyle,,Soft,1
+2021,2,7,1,Stradivarius (IRE),22,D,No,Yes,3.75,70-1411,2,1,Yes,Yes,7,128,121,J & T Gosden,L Dettori,,Soft,1
+2021,3,13,11,Bubble Smart,27,C,Yes,No,26,782111,3,1,Yes,Yes,4,124,103,M Delzangles,G Mosse,,Soft,1
+2021,4,6,3,Skazino (FR),41,C,Yes,No,12,451121,2,1,Yes,Yes,5,128,110,C E Rossi,M Barzalona,,Soft,1
+2021,5,12,12,Princess Zoe (GER),50,CD,Yes,Yes,5,14-9422,0,2,Yes,No,6,124,114,A Mullins,J M Sheridan,,Soft,0
+2021,6,10,10,Call The Wind,27,CD,Yes,Yes,26,213-03,0,3,Yes,No,7,128,108,F Head,O Peslier,,Soft,0
+2021,7,3,7,Max La Fripouille (FR),37,,No,No,201,153150,1,10,No,No,9,128,85,Rod Collet,T Bachelot,,Soft,0
+2021,8,2,5,Emperor Of The Sun (IRE),20,,No,No,41,315735,0,5,No,No,4,128,112,Donnacha O'Brien,G M Ryan,,Soft,0
+2021,9,8,9,Alkuin (IRE),41,C,Yes,No,67,May-66,0,6,No,No,6,128,102,N Caullery,E Hardouin,,Soft,0
+2021,10,4,13,Karlstad (FR),27,C,Yes,No,101,142252,0,2,Yes,No,6,128,104,P & J Brandt,M Guyon,,Soft,0
+2021,11,11,2,Memphis (GER),55,,No,No,101,123411,2,1,Yes,Yes,4,124,101,R Dzubasz,B Murzabayev,,Soft,0
+2021,12,1,8,Stratum,43,,No,No,26,20-1514,1,4,No,No,8,128,111,W P Mullins,C Demuro,,Soft,0
+2021,13,5,4,Cacophonous,74,,No,No,201,-76330,0,10,No,No,6,128,84,Martina Havelkova,M Havelkova,,Soft,0
+2020,1,9,5,Princess Zoe (GER),25,,No,No,3.5,2-21111,3,1,Yes,Yes,5,124,108,A Mullins,J M Sheridan,,Very Soft,1
+2020,2,4,6,Alkuin (IRE),63,C,Yes,No,41,130-114,2,4,No,No,5,128,102,F Rossi,E Hardouin,,Very Soft,1
+2020,3,5,1,Call The Wind,41,CD,Yes,Yes,2.25,22-1121,2,1,Yes,Yes,6,128,108,F Head,O Peslier,,Very Soft,1
+2020,4,1,9,Windstoss (GER),27,,No,Yes,23,3-24234,0,4,No,No,6,128,107,Markus Klug,I Mendizabal,,Very Soft,0
+2020,5,3,7,Cacophonous,451,,No,Yes,101,84/4837-,0,7,No,No,5,128,74,Martina Havelkova,M Havelkova,,Very Soft,0
+2020,6,6,3,Barbados (IRE),20,,No,Yes,13,0-52324,0,4,No,No,4,128,111,Mrs J Harrington,L Dettori,,Very Soft,0
+2020,7,8,8,Apadanah (GER),13,,No,Yes,101,516555,0,5,No,No,4,124,102,B Nedorostek,C Demuro,,Very Soft,0
+2020,8,2,4,Sublimis (IRE),27,,No,Yes,7,1-22323,0,3,Yes,No,4,128,105,A Fabre,M Barzalona,,Very Soft,0
+2020,9,7,2,Think Of Me (GER),27,,No,Yes,8,122-112,2,2,Yes,No,4,124,105,F Graffard,P C Boudot,,Very Soft,0
